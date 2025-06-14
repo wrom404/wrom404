@@ -1,4 +1,4 @@
-# 👋 Hi there! It's Wendel Rom here (a.k.a undefined)
+# 👋 Hi there! I'm Wendel Rom (a.k.a undefined)
 
 I'm a **Jr. Software Developer** from the Philippines who enjoys building full-stack web applications. I focus on creating clean UIs, robust APIs, and efficient backend systems using modern technologies.
 
